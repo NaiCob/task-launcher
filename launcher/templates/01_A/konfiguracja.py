@@ -1,0 +1,9 @@
+###### CONFIG #######
+nazwaDystrybutora = '01_A'
+formatPliku = 'xlsx'
+arkusz = 0
+odWiersza = 0
+odKolumny = 'A'
+sciezka = f'C:\\data\\raw\\01\\*.{formatPliku}'
+sciezka_mapping = f'C:\\data\\raw\\01\\do_parametryzacji.csv'
+dystrybutor = 'A'
